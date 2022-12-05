@@ -1,0 +1,16 @@
+	Welcome to ABC hotel
+Bill no :5981 
+Customer Name :Sarthak
+Phone No :9853574766
+=================================== 
+Items		QTY	 Price
+=================================== 
+chilly chicken		2		180
+dragon chicken		1		90
+butter naan		2		40
+garlic naan		2		40
+sprite		2		60
+mazza		1		20
+=================================== 
+Total Bill :			Rs.  430.0
+=================================== 

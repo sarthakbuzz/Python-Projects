@@ -1,0 +1,13 @@
+	Welcome to ABC hotel
+Bill no :8421 
+Customer Name :Sarthak
+Phone No :965352223
+=================================== 
+Items		QTY	 Price
+=================================== 
+Chilly Chicken		1		90
+Paneer Chowmin		8		480
+Ice Cream		7		420
+=================================== 
+Total Bill :			Rs.  990.0
+=================================== 
